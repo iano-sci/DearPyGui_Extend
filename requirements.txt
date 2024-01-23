@@ -1,3 +1,0 @@
-dearpygui==1.9.1
-Fileseq==1.15.2
-future==0.18.3

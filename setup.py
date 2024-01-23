@@ -5,9 +5,9 @@ setup(
     version="0.1.1",
     packages=['dearpygui_extend'],
     install_requires=[
-        'dearpygui==1.9.1',
-        'Fileseq==1.15.2',
-        'future==0.18.3',
+        'dearpygui>=1.9.1',
+        'Fileseq>=1.15.2',
+        'future>=0.18.3',
     ],
     entry_points={
         "console_scripts": [
